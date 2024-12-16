@@ -1,7 +1,7 @@
 Check Out My LeetCode Profile! 🚀
 Visit my LeetCode profile to explore my journey in mastering algorithms, data structures, and solving challenging problems:
 
-LeetCode Profile: Pratibimb Gupta
+LeetCode Profile: [Pratibimb Gupta](https://leetcode.com/u/pratibimb__gupta/)
 
 🌟 About Me:
 I am passionate about coding and solving algorithmic challenges. My focus is on continuous learning, improving my problem-solving skills, and preparing for technical interviews. Through my LeetCode journey, I’ve developed a deep understanding of various data structures and algorithms.
